@@ -2,6 +2,7 @@
 
 * ### NodejsClone is a cloned version of Nodejs Website. 🌐
 * ### The Main Reason for Cloning the Website is To Improve the skills.
+* ### This CLonedWebsite is only for Education Purpose Only.
 
 ---
 
